@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Brand & Primary Colors -->
+    <color name="primary">#1E40AF</color>
+    <color name="primary_variant">#1E3A8A</color>
+    <color name="primary_light">#EFF6FF</color>
+    <color name="secondary">#0EA5E9</color>
+    <color name="secondary_variant">#0284C7</color>
+
+    <!-- Legacy / Compatibility Colors -->
+    <color name="purple_200">#93C5FD</color>
+    <color name="purple_500">#1E40AF</color>
+    <color name="purple_700">#1E3A8A</color>
+    <color name="teal_200">#38BDF8</color>
+    <color name="teal_700">#0284C7</color>
+
+    <!-- Neutral Colors -->
+    <color name="black">#0F172A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F1F5F9</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <!-- UI Elements -->
+    <color name="accent_color">#2563EB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="search_bg">#F8FAFC</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="icon_tint">#3B82F6</color>
+
+    <!-- Status / Feedback Colors -->
+    <color name="status_received">#D97706</color>
+    <color name="status_completed">#059669</color>
+    <color name="status_delivered">#0284C7</color>
+    <color name="success">#10B981</color>
+    <color name="error">#EF4444</color>
+    <color name="warning">#F59E0B</color>
+
+    <!-- Soft Chip Backgrounds -->
+    <color name="status_received_bg">#FEF3C7</color>
+    <color name="status_completed_bg">#D1FAE5</color>
+    <color name="status_delivered_bg">#E0F2FE</color>
+
+    <!-- Header Gradient Colors -->
+    <color name="gradient_start">#1E3A8A</color>
+    <color name="gradient_end">#2563EB</color>
+    <color name="hero_start">#0F172A</color>
+    <color name="hero_end">#1E293B</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_admin"
+        android:icon="@drawable/ic_admin_shield"
+        android:title="Admin" />
+    <item
+        android:id="@+id/nav_placeholder"
+        android:title=""
+        android:enabled="false" />
+    <item
+        android:id="@+id/nav_daily"
+        android:icon="@drawable/ic_calendar"
+        android:title="Daily Sales" />
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Repair</string>
+    <string name="home">Home</string>
+    <string name="admin">Admin</string>
+    <string name="app_title">Mobile Repair App</string>
+    <string name="fab_action">Action</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="service_jobs_amp_customer_orders"><![CDATA[Service Jobs & Customer Orders]]></string>
+    <string name="search_icon">Search Icon</string>
+    <string name="search_customer_mobile_issue">Search customer, mobile...</string>
+</resources>
